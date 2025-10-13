@@ -1,0 +1,7 @@
+body, .tkr-root {
+	margin: 0 !important;
+	padding: 0 !important;
+	width: 100vw;
+	min-width: 100vw;
+	box-sizing: border-box;
+}
